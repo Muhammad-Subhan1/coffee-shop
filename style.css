@@ -476,6 +476,7 @@ span {
 
 .head{
     display: flex;
+    
 }
 .head img{
     transition: background-color 0.3s ease, transform 0.3s ease;
@@ -1201,6 +1202,12 @@ span {
     width: 180px;
     height: 60px;
    }
+   .sec3main{
+    padding: 0;
+   }
+   .sec3images img{
+    width:250px;
+   }
    .sec3btn p{
     padding: 0px;
     font-size: 16px;
@@ -1208,6 +1215,18 @@ span {
    .sec3 button img{
     width: 22px;
     height: 22px;
+   }
+   .sec4pic{
+    height: auto;
+    width: auto;
+   }
+   .stars{
+    padding: 10px;
+   }
+   .sec4h1{
+    padding: 0;
+    font-size: 18px;
+    width: 100%;
    }
    .sec5{
     padding: 0;
@@ -1230,6 +1249,9 @@ span {
    .footer-main{
     padding: 0;
     justify-content: center;
+   }
+   .fmain{
+    padding: 80px;
    }
    .footh1{
     font-size: 42px;
